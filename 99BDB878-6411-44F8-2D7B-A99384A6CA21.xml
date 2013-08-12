@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:project xmlns:arch="http://ochre.lib.uchicago.edu/schema/Project/Project.xsd" xmlns:oc="http://opencontext.org/schema/project_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="99BDB878-6411-44F8-2D7B-A99384A6CA21" ownedBy="99BDB878-6411-44F8-2D7B-A99384A6CA21">
+  <arch:name>
+    <arch:string>Zooarchaeology of Neolithic Ulucak</arch:string>
+  </arch:name>
+  <oc:manage_info>
+    <oc:queryVal>Zooarchaeology+of+Neolithic+Ulucak</oc:queryVal>
+    <oc:rootPath>/Ulucak</oc:rootPath>
+    <oc:spaceCount>0</oc:spaceCount>
+    <oc:mediaCount>0</oc:mediaCount>
+    <oc:diaryCount>0</oc:diaryCount>
+    <oc:projGeoPoint> </oc:projGeoPoint>
+  </oc:manage_info>
+  <arch:links>
+    <arch:docID type="person" info="Project Participant">67303C62-0129-48BF-45D3-A15172495D61</arch:docID>
+    <oc:person_links>
+      <oc:link href="http://opencontext.org/persons/67303C62-0129-48BF-45D3-A15172495D61">
+        <oc:name>Canan Çakırlar</oc:name>
+        <oc:id>67303C62-0129-48BF-45D3-A15172495D61</oc:id>
+        <oc:relation>Project Participant</oc:relation>
+      </oc:link>
+    </oc:person_links>
+  </arch:links>
+  <arch:notes>
+    <arch:note type="short_des">
+      <arch:string type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">Zooarchaeology of a portion of the vertebrate remains from Ulucak Höyük's Neolithic layers</div>
+      </arch:string>
+    </arch:note>
+    <arch:note type="long_des">
+      <arch:string type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div>
+        
+        <h4>Introduction</h4>
+        <p>The dataset comprises macro-zooarchaeological information from hand-collected vertebrate remains from the Neolithic layers of Ulucak Höyük (ca. 7000-5700 cal. BC, Izmir-Turkey).The dataset represents the only available Neolithic zooarchaeological assemblage from a vast and crucial region between the Lake District (where Hacılar is located) and mainland Greece. A good portion of the dataset includes information about the pre- 6500 BC layer of Ulucak (Level VI), which encompasses red-painted floors but is devoid of clay objects (Çilingiroğlu and Çilingiroğlu 2012). The dataset forms the basis for the long-term study of the earliest farming traditions between core Neolithic areas in southwest Asia and southeastern Europe.  Data tables include chronological data (Ulucak Level VI, V early, V late, and IV) and taxonomic identifications for ca. 22,000 vertebrate specimens (NISP); dental ageing data for sheep, goat, cattle and pig; fusion data for long bones; and linear standard osteometric data where possible. Details of the methods used in the collection of the data and the primary goals of the “Zooarchaeology of Neolithic Ulucak” project can be found in Çakırlar 2012a and 2012b. </p>
+        
+        <h4>Methodology</h4>
+        
+        <p>The dataset includes the vertebrate assemblages retrieved through hand-collection methods. Considerable amounts of marine, freshwater and terrestrial mollusks were also found during the excavations. Selective wet and dry sieving is applied at the Ulucak excavations. This archaeomalacological material will be handled separately. In the present study, the post-cranial bones of sheep and goats were differentiated according to Zeder and Lapham’s (2010) criteria. To identify the cranial bones, Boessneck et al.’s (1964) criteria were used. The identification of sheep and goat mandible teeth followed Zeder and Pilaar 2010. In order to avoid taxonomic confusion for the non-specialised reader and to overcome the difficulties of multiple binominal nomenclatures used by zoologists for domestic taxa, uninominal names are used to denominate domesticates (for example BOS) throughout the text, following Uerpmann (1993). Detailed information on the taphonomic features of the assemblage are provided in Çakırlar 2012a. The post-cranial measurements are those described by von den Driesch (1976). Observations of tooth eruption and wear patterns are presented following Payne 1973 for sheep and goats and Grant 1982 for pig and cattle. </p>
+        
+        <h4>Potential Applications of Data</h4>
+        
+        <p>The dataset can be used to explore questions concerning the transition from foraging to producing economies in the Old World; Neolithisation processes of Anatolia and Europe; colonization of new biogeographies by humans; human-induced zoological introductions; environmental reconstructions of the Early Holocene; origins of secondary products exploitation etc. </p>
+        
+
+<h4>Funding Organizations</h4>
+<p>Institute for Aegean Prehistory (2008-2012); Belgian Science Policy (2011-2012); Ulucak Excavation Project (Turkish Ministry of Culture and Tourism, through Trakya University and Ege University); Groningen Institute of Archaeology</p>
+
+        <div resource="http://opencontext.org/subjects/63431873-B6CB-4F38-5EB2-F667EA2BAF76">    
+            <div id="pub-2012-1" rel="dcterms:isReferencedBy" class="biblio-item">
+                <a style="display:none;" href="#pub-2012-1"> </a>
+                <div typeof="dcterms:BibliographicResource bibo:Article" resource="#pub-2012-1">
+                    <div property="dcterms:bibliographicCitation">
+                        <p class="authors">Çakırlar, Canan</p>
+                        <div>
+                            <div class="pub-date">2012a</div>
+                            <div class="ref-title-pub">The evolution of animal husbandry in Neolithic central-west Anatolia: the zooarchaeological record from Ulucak Höyük (c. 7040–5660 cal. BC, Izmir, Turkey). <span class="collection-title">Anatolian Studies</span> 62:1-33.</div>
+                            <div class="ref-end"> </div>
+                        </div>
+                    </div>
+                    <div class="ref-links">
+                        [<a rel="bibo:uri" href="http://journals.cambridge.org/action/displayAbstract?aid=8743970">Article</a>]
+                        [<a rel="dcterms:identifier" href="http://dx.doi.org/10.1017/S0066154612000014">DOI</a>]
+                    </div>
+                </div>
+            </div>
+            
+            <div id="pub-2012-2" rel="dcterms:isReferencedBy" class="biblio-item">
+                <a style="display:none;" href="#pub-2012-2"> </a>
+                <div typeof="dcterms:BibliographicResource bibo:Article" resource="#pub-2012-2">
+                    <div property="dcterms:bibliographicCitation">
+                        <p class="authors">Çakırlar, Canan</p>
+                        <div>
+                            <div class="pub-date">2012b</div>
+                            <div class="ref-title-pub">Neolithic dairy technology at the European-Anatolian Frontier? Implications of the archaeozoological evidence from Ulucak Höyük, İzmir, ca. 7040-5660 BC cal. <span class="collection-title">Anthropozoologica</span> 47(2):77-98.</div>
+                            <div class="ref-end"> </div>
+                        </div>
+                    </div>
+                    <div class="ref-links">
+                        [<a rel="bibo:uri" href="http://www.bioone.org/doi/abs/10.5252/az2012n2a6">Article</a>]
+                        [<a rel="dcterms:identifier" href="http://dx.doi.org/10.5252/az2012n2a6">DOI</a>]
+                    </div>
+                </div>
+            </div>
+            
+            <div id="pub-2012-3" rel="dcterms:isReferencedBy" class="biblio-item">
+                <a style="display:none;" href="#pub-2012-3"> </a>
+                <div typeof="dcterms:BibliographicResource bibo:BookSection" resource="#pub-2012-3">
+                    <div property="dcterms:bibliographicCitation">
+                        <p class="authors">Çilingiroğlu, Altan., Çevik, Özlem., Çilingiroğlu, Çiler</p>
+                        <div>
+                            <div class="pub-date">2012</div>
+                            <div class="ref-title-pub">Towards understanding the early farming communities of Middle West Anatolia: The contribution of Ulucak. <span class="collection-title">The Neolithic in Turkey</span>, Vol. 4, edited by M. Özdoğan, N. Başgelen, P. Kuniholm, pp. 139-175. Istanbul, Archaeology and Art Publications.</div>
+                            <div class="ref-end"> </div>
+                        </div>
+                    </div>
+                    <div class="ref-links">
+                        [<a rel="dcterms:hasVersion" href="http://www.academia.edu/2008081/Towards_Understanding_the_Early_Farming_Communities_of_Middle_West_Anatolia_Contribution_of_Ulucak">Open Access</a>]
+                        [<a rel="dcterms:isPartOf" href="http://www.worldcat.org/oclc/811319312">DOI</a>]
+                    </div>
+                </div>
+            </div>
+            
+        </div>    
+        
+    </div>
+        </div>
+      </arch:string>
+    </arch:note>
+  </arch:notes>
+  <oc:metadata>
+    <dc:title>Zooarchaeology of Neolithic Ulucak: (Overview)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-08-11</dc:date>
+    <dc:subject>western Anatolia</dc:subject>
+    <dc:subject>eastern Aegean</dc:subject>
+    <dc:subject>Chalcolithic</dc:subject>
+    <dc:subject>Aceramic Neolithic</dc:subject>
+    <dc:subject>zooarchaeology</dc:subject>
+    <dc:subject>Faunal data</dc:subject>
+    <dc:subject>Mammal Remains</dc:subject>
+    <dc:subject/>
+    <dc:creator href="http://opencontext.org/persons/67303C62-0129-48BF-45D3-A15172495D61">Canan Çakırlar</dc:creator>
+    <dc:identifier>http://opencontext.org/projects/99BDB878-6411-44F8-2D7B-A99384A6CA21</dc:identifier>
+    <dc:identifier type="doi" href="http://dx.doi.org/10.6078/M7KS6PHV">10.6078/M7KS6PHV</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/99BDB878-6411-44F8-2D7B-A99384A6CA21">Zooarchaeology of Neolithic Ulucak</oc:project_name>
+    <oc:pub_date>2013-08-11T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Zooarchaeology+of+Neolithic+Ulucak%3A+%28Overview%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=western+Anatolia&amp;rft.subject=eastern+Aegean&amp;rft.subject=Chalcolithic&amp;rft.subject=Aceramic+Neolithic&amp;rft.subject=zooarchaeology&amp;rft.subject=Faunal+data&amp;rft.subject=Mammal+Remains&amp;rft.subject=&amp;rft.creator=Canan+%C3%87ak%C4%B1rlar&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fprojects%2F99BDB878-6411-44F8-2D7B-A99384A6CA21&amp;rft.identifier=DOI%3A10.6078%2FM7KS6PHV</oc:coins>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+</arch:project>
