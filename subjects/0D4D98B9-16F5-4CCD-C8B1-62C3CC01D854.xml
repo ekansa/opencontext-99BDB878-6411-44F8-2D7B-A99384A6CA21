@@ -75,7 +75,7 @@
                 <oc:vocabulary href="http://opencontext.org/vocabularies/open-context-zooarch/">Open Context Zooarchaeology Annotations</oc:vocabulary>
                 <oc:label>Proximal epiphysis fused</oc:label>
               </oc:targetLink>
-              <oc:targetLink localType="property" localID="361D3A6A-6729-4702-FFDC-4D6F576FA73D" localURI="http://opencontext.org/properties/361D3A6A-6729-4702-FFDC-4D6F576FA73D" href="http://opencontext.org/vocabularies/open-context-zooarch/prox-f">
+              <oc:targetLink localType="property" localID="361D3A6A-6729-4702-FFDC-4D6F576FA73D" localURI="http://opencontext.org/properties/361D3A6A-6729-4702-FFDC-4D6F576FA73D" href="http://opencontext.org/vocabularies/open-context-zooarch/zoo-0069">
                 <oc:vocabulary href="http://opencontext.org/vocabularies/open-context-zooarch/">Open Context Zooarchaeology Annotations</oc:vocabulary>
                 <oc:label>Proximal epiphysis fused</oc:label>
               </oc:targetLink>

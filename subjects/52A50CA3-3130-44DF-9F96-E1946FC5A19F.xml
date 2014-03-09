@@ -79,11 +79,11 @@
                 <oc:vocabulary href="http://opencontext.org/vocabularies/open-context-zooarch/">Open Context Zooarchaeology Annotations</oc:vocabulary>
                 <oc:label>Proximal epiphysis fused</oc:label>
               </oc:targetLink>
-              <oc:targetLink localType="property" localID="F7429A7D-B23E-4CB7-C755-2C8A01B8C914" localURI="http://opencontext.org/properties/F7429A7D-B23E-4CB7-C755-2C8A01B8C914" href="http://opencontext.org/vocabularies/open-context-zooarch/dist-f">
+              <oc:targetLink localType="property" localID="F7429A7D-B23E-4CB7-C755-2C8A01B8C914" localURI="http://opencontext.org/properties/F7429A7D-B23E-4CB7-C755-2C8A01B8C914" href="http://opencontext.org/vocabularies/open-context-zooarch/zoo-0057">
                 <oc:vocabulary href="http://opencontext.org/vocabularies/open-context-zooarch/">Open Context Zooarchaeology Annotations</oc:vocabulary>
                 <oc:label>Distal epiphysis fused</oc:label>
               </oc:targetLink>
-              <oc:targetLink localType="property" localID="F7429A7D-B23E-4CB7-C755-2C8A01B8C914" localURI="http://opencontext.org/properties/F7429A7D-B23E-4CB7-C755-2C8A01B8C914" href="http://opencontext.org/vocabularies/open-context-zooarch/prox-f">
+              <oc:targetLink localType="property" localID="F7429A7D-B23E-4CB7-C755-2C8A01B8C914" localURI="http://opencontext.org/properties/F7429A7D-B23E-4CB7-C755-2C8A01B8C914" href="http://opencontext.org/vocabularies/open-context-zooarch/zoo-0069">
                 <oc:vocabulary href="http://opencontext.org/vocabularies/open-context-zooarch/">Open Context Zooarchaeology Annotations</oc:vocabulary>
                 <oc:label>Proximal epiphysis fused</oc:label>
               </oc:targetLink>

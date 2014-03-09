@@ -75,7 +75,7 @@
                 <oc:vocabulary href="http://opencontext.org/vocabularies/open-context-zooarch/">Open Context Zooarchaeology Annotations</oc:vocabulary>
                 <oc:label>Distal epiphysis fusing</oc:label>
               </oc:targetLink>
-              <oc:targetLink localType="property" localID="B5BADAD5-9009-4777-A3F0-E774CD3A7800" localURI="http://opencontext.org/properties/B5BADAD5-9009-4777-A3F0-E774CD3A7800" href="http://opencontext.org/vocabularies/open-context-zooarch/dist-uf">
+              <oc:targetLink localType="property" localID="B5BADAD5-9009-4777-A3F0-E774CD3A7800" localURI="http://opencontext.org/properties/B5BADAD5-9009-4777-A3F0-E774CD3A7800" href="http://opencontext.org/vocabularies/open-context-zooarch/zoo-0058f">
                 <oc:vocabulary href="http://opencontext.org/vocabularies/open-context-zooarch/">Open Context Zooarchaeology Annotations</oc:vocabulary>
                 <oc:label>Distal epiphysis fusing</oc:label>
               </oc:targetLink>

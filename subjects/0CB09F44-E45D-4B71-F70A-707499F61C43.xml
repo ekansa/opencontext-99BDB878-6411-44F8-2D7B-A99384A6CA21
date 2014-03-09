@@ -79,11 +79,11 @@
                 <oc:vocabulary href="http://opencontext.org/vocabularies/open-context-zooarch/">Open Context Zooarchaeology Annotations</oc:vocabulary>
                 <oc:label>Proximal epiphysis unfused</oc:label>
               </oc:targetLink>
-              <oc:targetLink localType="property" localID="04A341B0-4D50-4FC3-FDFC-FF21FB5C54CA" localURI="http://opencontext.org/properties/04A341B0-4D50-4FC3-FDFC-FF21FB5C54CA" href="http://opencontext.org/vocabularies/open-context-zooarch/dist-u">
+              <oc:targetLink localType="property" localID="04A341B0-4D50-4FC3-FDFC-FF21FB5C54CA" localURI="http://opencontext.org/properties/04A341B0-4D50-4FC3-FDFC-FF21FB5C54CA" href="http://opencontext.org/vocabularies/open-context-zooarch/zoo-0058">
                 <oc:vocabulary href="http://opencontext.org/vocabularies/open-context-zooarch/">Open Context Zooarchaeology Annotations</oc:vocabulary>
                 <oc:label>Distal epiphysis unfused</oc:label>
               </oc:targetLink>
-              <oc:targetLink localType="property" localID="04A341B0-4D50-4FC3-FDFC-FF21FB5C54CA" localURI="http://opencontext.org/properties/04A341B0-4D50-4FC3-FDFC-FF21FB5C54CA" href="http://opencontext.org/vocabularies/open-context-zooarch/prox-u">
+              <oc:targetLink localType="property" localID="04A341B0-4D50-4FC3-FDFC-FF21FB5C54CA" localURI="http://opencontext.org/properties/04A341B0-4D50-4FC3-FDFC-FF21FB5C54CA" href="http://opencontext.org/vocabularies/open-context-zooarch/zoo-0070">
                 <oc:vocabulary href="http://opencontext.org/vocabularies/open-context-zooarch/">Open Context Zooarchaeology Annotations</oc:vocabulary>
                 <oc:label>Proximal epiphysis unfused</oc:label>
               </oc:targetLink>

@@ -75,7 +75,7 @@
                 <oc:vocabulary href="http://opencontext.org/vocabularies/open-context-zooarch/">Open Context Zooarchaeology Annotations</oc:vocabulary>
                 <oc:label>Proximal epiphysis unfused</oc:label>
               </oc:targetLink>
-              <oc:targetLink localType="property" localID="6BB853DD-591A-40F9-4453-9A3C7DE9F746" localURI="http://opencontext.org/properties/6BB853DD-591A-40F9-4453-9A3C7DE9F746" href="http://opencontext.org/vocabularies/open-context-zooarch/prox-u">
+              <oc:targetLink localType="property" localID="6BB853DD-591A-40F9-4453-9A3C7DE9F746" localURI="http://opencontext.org/properties/6BB853DD-591A-40F9-4453-9A3C7DE9F746" href="http://opencontext.org/vocabularies/open-context-zooarch/zoo-0070">
                 <oc:vocabulary href="http://opencontext.org/vocabularies/open-context-zooarch/">Open Context Zooarchaeology Annotations</oc:vocabulary>
                 <oc:label>Proximal epiphysis unfused</oc:label>
               </oc:targetLink>
